@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+LLCP2016ASC.zip
+Untitled.ipynb
+*.pkl
+demo
+documents
+*.zip
+*.csv
+final_results
